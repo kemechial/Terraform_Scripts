@@ -1,3 +1,7 @@
 *.tfstate
 *.hcl
 .terraform
+*key
+*.pub
+Keypair.tf
+*.backup
